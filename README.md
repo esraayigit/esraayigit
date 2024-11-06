@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esra</h1>
 <h3 align="center">A passionate full-stack developer and student at Istanbul Zaim University in Turkey</h3>
 
-- 🌱 I’m currently learning **Swift and Java Script**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **esranur2003@icloud.com**
 
